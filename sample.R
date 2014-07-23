@@ -1,0 +1,1 @@
+print(rnorm(10))
